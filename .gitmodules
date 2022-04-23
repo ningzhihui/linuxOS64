@@ -1,0 +1,3 @@
+[submodule "/mnt/hgfs/src/selfproject/linuxOS64"]
+	path = /mnt/hgfs/src/selfproject/linuxOS64
+	url = https://github.com/ningzhihui/linuxOS64
